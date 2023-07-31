@@ -1,0 +1,33 @@
+
+h1 {
+    color: aqua;
+}
+h2 { 
+    color: aqua;
+}
+p {
+    font-family: sans-serif;
+}
+ol li {
+    color: red;
+}
+ul li {
+    color: brown;
+}
+a {
+    text-decoration: none;
+}
+table, td, th {
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 40px;
+    padding: 10px; 
+}
+table{
+   width: 100%
+}
+.table-text p {
+    font-size: 20px;
+    font-weight: bold;
+    color: yellowgreen;
+}
